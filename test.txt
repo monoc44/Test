@@ -1,0 +1,5 @@
+total 0
+drwxr-xr-x  4 fred  staff  136 Jun 10 18:14 .
+drwxr-xr-x  6 fred  staff  204 Jun 10 18:11 ..
+drwxr-xr-x  9 fred  staff  306 Jun 10 18:11 .git
+-rw-r--r--  1 fred  staff    0 Jun 10 18:14 test.txt
